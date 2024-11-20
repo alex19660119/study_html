@@ -16,3 +16,7 @@ h1,h2 {
   [dir="auto"] {
     color:blue;
     }
+
+    h5 {
+      color: aqua;
+    }
