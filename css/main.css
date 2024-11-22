@@ -17,6 +17,6 @@ h1,h2 {
     color:blue;
     }
 
-    h5 {
-      color: aqua;
+    h5,h6 {
+      color: red;
     }
